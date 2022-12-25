@@ -1,9 +1,9 @@
 fn main() {
-    let a = 42;
-    let r = &a; // & == su noktaya referans et, sadece memory address olarak calisiyor.
-    let b = a + *r; // su noktadaki adresin valuesini al.
+    let my_name = "yavuz";
+    let my_surname = "yagis";
 
-    // & ==> reelden adrese * ==> adresten value'ye.
+    let a = &my_name;
+    let b = &my_surname;
 
-    println!("a + a = {}", b)
+    println!("My name is {} {}", *a, *b);
 }
