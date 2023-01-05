@@ -1,5 +1,5 @@
 fn main() {
-    let needle = 42;
+    let _needle = 42;
     let haystack = [1, 1, 2, 5, 14, 132, 34, 12312, 322113, 42];
 
     for item in &haystack {
