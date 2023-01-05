@@ -1,0 +1,1 @@
+/Users/myyagis/Desktop/Rust\ in\ action/compound_data1/target/debug/compound_data1: /Users/myyagis/Desktop/Rust\ in\ action/compound_data1/src/main.rs /Users/myyagis/Desktop/Rust\ in\ action/compound_data1/src/structs.rs
